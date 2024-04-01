@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\4.unite 6 ve 7 .uygulama.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\_4.unite_6_ve_7.uygulama.Form1.resources
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\_4.unite_6_ve_7.uygulama.Properties.Resources.resources
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\4.unite 6 ve 7 .uygulama.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\4.unite 6 ve 7 .uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\bin\Debug\_4.unite_6_ve_7.uygulama.exe.config
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\bin\Debug\_4.unite_6_ve_7.uygulama.exe
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\bin\Debug\_4.unite_6_ve_7.uygulama.pdb
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\_4.unite_6_ve_7.uygulama.exe
+C:\Users\Seyda\source\repos\4.unite 6 ve 7 .uygulama\4.unite 6 ve 7 .uygulama\obj\Debug\_4.unite_6_ve_7.uygulama.pdb
